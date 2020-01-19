@@ -1,3 +1,3 @@
-def greeting 
+def greeting
   puts "hello world"
 end
